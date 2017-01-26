@@ -4,11 +4,11 @@
 
 # Name of your site (displayed in the header)
 
-name: Your Username
+name: Djokester
 
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: Civil Engineer by Day. Coder by Night.
 
 
 #
@@ -18,15 +18,15 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
-  facebook:
+  email: samriddhisinha.iitkgp@gmail.com
+  facebook: samriddhi.sinha.7
   flickr:
-  github: AkshayAgarwal007
-  instagram:
-  linkedin: akshay-agarwal-782018a4
+  github: djokester
+  instagram: samriddhidjokester
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: samdjokester
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
